@@ -1,0 +1,12 @@
+{
+  "name": "TP",
+  "description": "Targetted Prevention",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "cookie-parser": "^1.4.1",
+    "express": "^3.2.5",
+    "mongodb": "^1.4.4",
+    "monk": "^1.0.1"
+  }
+}
